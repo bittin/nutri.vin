@@ -284,7 +284,7 @@
         <div style="border-bottom: 1px solid #ddd">
             <div class="container pt-4 pb-5" style="max-width: 1050px;">
                 <a name="financement"></a>
-                <h2 class="mt-4">Financement</h2>
+                <h2 class="mt-4">Contribution financière libre</h2>
 
                 <p>Ce projet a été financé en majeur partie par <a href="https://www.vignobles-sudouest.fr/">l'interprofession des Vins du Sud-Ouest</a>, ainsi que par le 24ème.<p>
 
