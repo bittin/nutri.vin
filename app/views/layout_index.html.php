@@ -288,7 +288,9 @@
 
                 <p>Ce projet a été financé en majeur partie par <a href="https://www.vignobles-sudouest.fr/">l'interprofession des Vins du Sud-Ouest</a>, ainsi que par le 24ème.<p>
 
-                <p>Il est développé et maintenu par le 24ème qui accepte les dons afin pour pouvoir continuer à le faire évoluer et assurer sa maintenance dans les meilleurs conditions : <a href="https://liberapay.com/NutriVin/">Faire un don</a>
+                <p>Il est développé et maintenu par le 24ème. La plateforme communautaire open source nutri.vin vit grâce aux contributions financières de ces utilisateur.ices. Elles permettent d'améliorer le logiciel, de corriger des bugs et d'assurer la maintenance de l'hébergement.</p>
+                    
+                <p class="text-center"><a class="btn btn-primary" href="https://donate.stripe.com/28E6oGfFod1e8yXgtwdMI02">Faire un don</a></p>
             </div>
         </div>
         <div class="bg-light" style="border-bottom: 1px solid #ddd">
